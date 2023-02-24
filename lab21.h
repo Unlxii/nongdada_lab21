@@ -58,10 +58,10 @@ void Unit::showStatus(){
 		cout << "\n\t\t\t\t---------------------------------------\n";
 	}
 }
-
 void Unit::newTurn(){
-	guard_on =false;
+	guard_on = false;
 }
+
 /////////////////////////////////////////////////////////////////////////////////////
 //Write function members isDead(), guard(), heal(), beAttacked(), and attack() here//
 /////////////////////////////////////////////////////////////////////////////////////
